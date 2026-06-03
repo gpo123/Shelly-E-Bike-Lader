@@ -9,7 +9,7 @@ Anzupassende Variablen im Skript:
 
 target: Zielwert der Akkuladung in Prozent (default 80)
 
-KAPA_WH: Kapazität des Akkus in %
+KAPA_WH: Kapazität des Akkus in Wh
 
 eff: Wirkungsgrad des Ladevorgangs. Stellt den Gesamt-Wirkungsgrad von Ladegerät und des Ladens selber dar. Muss entsprechend angepasst werden wenn man über Lademenge läd.
 
