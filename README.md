@@ -2,6 +2,9 @@
 Skript zur Begrenzung des Ladens eines E-Bike Akkus auf ca 80%. Funktioniert über zugefügte Lademenge bzw. CC/CV-Ladeknick-Erkennung mittels einen Shelly Plug M gen3 oder Plug S gen3
 
 Der inhalt von E-Bike_Loader.shelly.ts muss als Skript auf den Plug geladen werden.
+
+Original stammt von Olaf vom fahrradblog.de
+
 Anzupassende Variablen im Skript:
 
 target: Zielwert der Akkuladung in Prozent (default 80)
@@ -25,7 +28,10 @@ LOG: Ausgabe ins LOG aktivieren
 Um den aktuellen Akkustand an das Skript übertragen zu können muß eine virtuelle Komponente so angelegt werden:
 <img width="1233" height="549" alt="virtuelleKomponente" src="https://github.com/user-attachments/assets/d48ebe2f-cac3-48e0-ab94-c6ccd2bc78e2" />
 
-Vor dem Ladevorgang ist dann jedes Mal der aktuelle Akku-Ladestand dort ein zutragen. Alternativ, wenn man sich auf CC/CV Umschaltung verlassen kann/will lässt man den Default-Wert bei 20-25%.
+Vor dem Ladevorgang ist dann jedes Mal der aktuelle Akku-Ladestand dort ein zutragen. Alternativ, wenn man sich auf CC/CV Umschaltung verlassen kann/will lässt man den Default-Wert bei 10-20%.
 Wichtig: die virtuelle Komponente wird als number:200 im Skript verarbeitet und ist entsprechend anzulegen. Wen man bereits weitere Komponenten angelegt hat muß das Skript entsprechend angepasst werden.
 
-Coming next: Alle 10 Ladungen auf 1000% laden um ein Balancing zu erzwingen
+Coming next: Alle 10 Ladungen auf 100% laden um ein Balancing zu erzwingen
+
+VERWENDUNG NUR UNTER VOLLSTÄNDIGEM HAFTUNGSASSCHLUSS MEINERSEITS ! 
+FÜR SCHÄDEN AN AKKU ODER E-BIKE IST DER NUTZER SELBST VERANWORTLICH! 
