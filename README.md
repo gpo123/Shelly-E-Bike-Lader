@@ -31,8 +31,9 @@ Um den aktuellen Akkustand an das Skript übertragen zu können muß eine virtue
 Vor dem Ladevorgang ist dann jedes Mal der aktuelle Akku-Ladestand dort ein zutragen. Alternativ, wenn man sich auf CC/CV Umschaltung verlassen kann/will lässt man den Default-Wert bei 10-20%.
 Wichtig: die virtuelle Komponente wird als number:200 im Skript verarbeitet und ist entsprechend anzulegen. Wen man bereits weitere Komponenten angelegt hat muß das Skript entsprechend angepasst werden.
 
-Coming next: Alle 10 Ladungen auf 100% laden um ein Balancing zu erzwingen
-
+Coming next: 
+- Alle 10 Ladungen auf 100% laden um ein Balancing zu erzwingen
+- Anleitung wenn man den Shelly ohne WLAN (Keller/Garage) betreibt 
 VERWENDUNG NUR UNTER VOLLSTÄNDIGEM HAFTUNGSASSCHLUSS MEINERSEITS ! 
 
 FÜR SCHÄDEN AN AKKU ODER E-BIKE IST DER NUTZER SELBST VERANWORTLICH! 
