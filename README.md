@@ -34,4 +34,5 @@ Wichtig: die virtuelle Komponente wird als number:200 im Skript verarbeitet und 
 Coming next: Alle 10 Ladungen auf 100% laden um ein Balancing zu erzwingen
 
 VERWENDUNG NUR UNTER VOLLSTÄNDIGEM HAFTUNGSASSCHLUSS MEINERSEITS ! 
+
 FÜR SCHÄDEN AN AKKU ODER E-BIKE IST DER NUTZER SELBST VERANWORTLICH! 
