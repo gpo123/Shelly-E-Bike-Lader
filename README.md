@@ -1,7 +1,7 @@
 # Shelly-E-Bike-Lader
 Skript zur Begrenzung des Ladens eines E-Bike Akkus auf ca 80%. Funktioniert über zugefügte Lademenge bzw. CC/CV-Ladeknick-Erkennung mittels einen Shelly Plug M gen3 oder Plug S gen3
 
-Der inhalt von E-Bike_Loader.shelly.ts muss als Skript auf den Plug geladen werden.
+Der Inhalt von E-Bike_Loader.shelly.ts muss als Skript auf den Plug geladen werden.
 
 Original stammt von Olaf vom fahrradblog.de
 
