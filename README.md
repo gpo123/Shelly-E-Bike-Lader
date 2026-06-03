@@ -20,4 +20,4 @@ CONSECUTIVE: Anzahl an Messungen bei denen der aktuelle gemessene Leistungswert 
 
 POLL_MS: Püfintervall für die Abschaltkriterien Lademenge oder CC/CV-Schwelle
 
-lOG: Ausgabe ins LOG aktivieren
+LOG: Ausgabe ins LOG aktivieren
