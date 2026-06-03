@@ -17,7 +17,7 @@ DROP_THRESHOLD: Üblicherweise werden LiIon-Akkus zuerst mit hohem konstante Str
 
 MIN_CHARGE_W: ab diesem Wert, der vom Shelly Plug gemessen wird, gilt der Ladevorgang als gestartet. So kann erkannt werden das der Lader am Akku eingesteckt und gestartet ist.
 
-ARM_AFTER_WH: Mindestlademenge die in den Akku geflosen sein muß um die Abschaltlogiken scharf zu schalten. Dient zum Entprellen beim Ladestart.
+ARM_AFTER_WH: Mindestlademenge die in den Akku geflossen sein muß um die Abschaltlogiken scharf zu schalten. Dient zum Entprellen beim Ladestart.
 
 CONSECUTIVE: Anzahl an Messungen bei denen der aktuelle gemessene Leistungswert unter die gemessene Spitzenleistung gefallen sein muss um über die Erkennung  der CC/CV-Schwelle abzuschalten. Dient der Entprellung.
 
