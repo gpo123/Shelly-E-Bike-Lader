@@ -10,7 +10,7 @@ KAPA_WH: Kapazität des Akkus in %
 
 eff: Wirkungsgrad des Ladevorgangs. Stellt den Gesamt-Wirkungsgrad von Ladegerät und des Ladens selber dar. Muss entsprechend angepasst werden wenn man über Lademenge läd.
 
-DROP_THRESHOLD: Üblicherweise werden LiIon-Akkus zuerst mit hohem konstante Strom gelden um irgendwann auf Konstant-Spnannung um zuschalten. Dadurch nimmt der Lader entsprechen weniger Leistung auf. Mittels dieses Werts kann man diese Umschaltung früher (=höherer Wert) oder später (=kleinerer Wert) erkennen.
+DROP_THRESHOLD: Üblicherweise werden LiIon-Akkus zuerst mit hohem konstante Strom geladen um irgendwann auf Konstant-Spnannung um zuschalten. Dadurch nimmt der Lader entsprechen weniger Leistung auf. Mittels dieses Werts kann man diese Umschaltung früher (=höherer Wert) oder später (=kleinerer Wert) erkennen.
 
 MIN_CHARGE_W: ab diesem Wert, der vom Shelly Plug gemessen wird, gilt der Ladevorgang als gestartet. So kann erkannt werden das der Lader am Akku eingesteckt und gestartet ist.
 
