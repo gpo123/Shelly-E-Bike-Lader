@@ -12,13 +12,13 @@
 // ---------- EINSTELLUNGEN ----------
 
 // Ziel Ladezstand in Prozent, aktueller Akku Stand wird über virtuelle Komponente als Eingabe vom Skript übernommen
-// die nächsetn 3 Werte regel das Laden über Energiemenge
+// die nächsten 3 Werte regeln das Laden über Energiemenge
 let target = 80;
 
 // Akku Kapazität in Wh
 let KAPA_WH = 750;
 
-// Laden Wirkungsgrad als Faktor 
+// Laden Wirkungsgrad als Faktor: Wirkungrad beinhltet Wirkungsgrad des Ladegräts und des Ladevorgangs 
 let eff = 0.9;
 
 // Abschalten, wenn die Leistung auf diesen Anteil des Spitzenwerts faellt.
